@@ -2,7 +2,7 @@
 
 This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.
 
-![Course Completion certificate](https://github.com/spardn/BuildingWebApplicationsInPHP-master/blob/main/Certicate.png)
+![Course Completion certificate](https://github.com/spardn/spardn.github.io/blob/main/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-master/certificate.png)
 
 
 # Assignments :
